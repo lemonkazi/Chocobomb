@@ -54,9 +54,9 @@ namespace animal_years
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Form Form5 = new Form5();
 
-            Form5.Show();
+        outputDescriptionLabel f = new outputDescriptionLabel();
+        f.Show();
         }
     }
 }
