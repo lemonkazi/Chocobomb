@@ -1,0 +1,10 @@
+c:\users\srimanta\documents\visual studio 2015\Projects\animal_years\animal_years\bin\Debug\animal_years.exe.config
+c:\users\srimanta\documents\visual studio 2015\Projects\animal_years\animal_years\obj\Debug\animal_years.csprojResolveAssemblyReference.cache
+c:\users\srimanta\documents\visual studio 2015\Projects\animal_years\animal_years\obj\Debug\animal_years.Form1.resources
+c:\users\srimanta\documents\visual studio 2015\Projects\animal_years\animal_years\obj\Debug\animal_years.Properties.Resources.resources
+c:\users\srimanta\documents\visual studio 2015\Projects\animal_years\animal_years\obj\Debug\animal_years.csproj.GenerateResource.Cache
+c:\users\srimanta\documents\visual studio 2015\Projects\animal_years\animal_years\bin\Debug\animal_years.exe
+c:\users\srimanta\documents\visual studio 2015\Projects\animal_years\animal_years\bin\Debug\animal_years.pdb
+c:\users\srimanta\documents\visual studio 2015\Projects\animal_years\animal_years\obj\Debug\animal_years.exe
+c:\users\srimanta\documents\visual studio 2015\Projects\animal_years\animal_years\obj\Debug\animal_years.pdb
+C:\Users\srimanta\Documents\Visual Studio 2015\Projects\animal_years\animal_years\obj\Debug\animal_years.Form2.resources
